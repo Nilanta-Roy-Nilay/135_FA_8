@@ -45,7 +45,7 @@ class IDCard extends StatelessWidget {
                 style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
               ),
               const Text(
-                'Department: Software Engineering',
+                'Department: Computer Science and Engineering',
                 style: TextStyle(fontSize: 16),
               ),
               const SizedBox(height: 10),
