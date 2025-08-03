@@ -52,15 +52,15 @@ class IDCard extends StatelessWidget {
               const Divider(thickness: 1),
               const ListTile(
                 leading: Icon(Icons.perm_identity),
-                title: Text('ID: 106_FA_8'),
+                title: Text('ID: 135_FA_8'),
               ),
               const ListTile(
                 leading: Icon(Icons.email),
-                title: Text('Email: nilanta@example.com'),
+                title: Text('Email: nilantaniloy9@example.com'),
               ),
               const ListTile(
                 leading: Icon(Icons.phone),
-                title: Text('Phone: +880-123456789'),
+                title: Text('Phone: +880-1775999165'),
               ),
               const SizedBox(height: 16),
             ],
